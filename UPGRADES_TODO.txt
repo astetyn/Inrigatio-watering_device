@@ -1,0 +1,7 @@
+LEDky nevypinat tranzistorom na GND - prud tecie aj tak, mozno PNP na VCC?
+
+tie dierky na hlavny vypinac nepasujuv PCB
+
+vacsie footprinty na rezistory
+
+mensie tranzistory?
